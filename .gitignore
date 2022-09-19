@@ -22,3 +22,6 @@ cli/npm-package/*.tgz
 docker-target
 .rollup.cache/
 test-keypair.json
+yarn.lock
+examples/tutorial/yarn.lock
+examples/tutorial/package-lock.json
